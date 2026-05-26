@@ -26134,7 +26134,7 @@ Yi(a,b,c){return A.aGy(a,b,c)},
 aGy(a,b,c){var s=0,r=A.J(t.P),q,p=2,o=[],n,m,l,k,j,i,h
 var $async$Yi=A.E(function(d,e){if(d===1){o.push(e)
 s=p}while(true)switch(s){case 0:p=4
-l=A.dD("http://127.0.0.1:8000/tahmin/isimden",0,null)
+l=A.dD("http://157.230.127.162:8000/tahmin/isimden",0,null)
 k=t.N
 j=A.ad(["Content-Type","application/json"],k,k)
 s=7
@@ -26164,7 +26164,7 @@ return A.I($async$Yi,r)},
 Yj(a,b){return A.aGz(a,b)},
 aGz(a,b){var s=0,r=A.J(t.P),q,p=2,o=[],n,m,l,k,j,i
 var $async$Yj=A.E(function(c,d){if(c===1){o.push(d)
-s=p}while(true)switch(s){case 0:j=A.dD("http://127.0.0.1:8000/tahmin/ozetten",0,null)
+s=p}while(true)switch(s){case 0:j=A.dD("http://157.230.127.162:8000/tahmin/ozetten",0,null)
 p=4
 m=t.N
 l=A.ad(["Content-Type","application/json"],m,m)
@@ -26195,7 +26195,7 @@ case 2:return A.G(o.at(-1),r)}})
 return A.I($async$Yj,r)},
 HK(a){var s=0,r=A.J(t.j),q,p=2,o=[],n,m,l,k,j,i
 var $async$HK=A.E(function(b,c){if(b===1){o.push(c)
-s=p}while(true)switch(s){case 0:j=A.dD("http://127.0.0.1:8000/gecmis/"+a,0,null)
+s=p}while(true)switch(s){case 0:j=A.dD("http://157.230.127.162:8000/gecmis/"+a,0,null)
 p=4
 s=7
 return A.L(A.avs(j),$async$HK)
@@ -26225,7 +26225,7 @@ case 2:return A.G(o.at(-1),r)}})
 return A.I($async$HK,r)},
 Yc(a){var s=0,r=A.J(t.y),q,p=2,o=[],n,m,l,k,j,i
 var $async$Yc=A.E(function(b,c){if(b===1){o.push(c)
-s=p}while(true)switch(s){case 0:j=A.dD("http://127.0.0.1:8000/gecmis/"+a,0,null)
+s=p}while(true)switch(s){case 0:j=A.dD("http://157.230.127.162:8000/gecmis/"+a,0,null)
 p=4
 s=7
 return A.L(A.avN(j),$async$Yc)
@@ -26256,7 +26256,7 @@ Yf(a,b,c,d,e){return A.aGv(a,b,c,d,e)},
 aGv(a,b,c,d,e){var s=0,r=A.J(t.N),q,p=2,o=[],n,m,l,k,j,i,h
 var $async$Yf=A.E(function(f,g){if(f===1){o.push(g)
 s=p}while(true)switch(s){case 0:p=4
-l=A.dD("http://127.0.0.1:8000/kutuphane/ekle",0,null)
+l=A.dD("http://157.230.127.162:8000/kutuphane/ekle",0,null)
 k=t.N
 j=A.ad(["Content-Type","application/json"],k,k)
 s=7
@@ -26287,7 +26287,7 @@ case 2:return A.G(o.at(-1),r)}})
 return A.I($async$Yf,r)},
 Yd(a){var s=0,r=A.J(t.j),q,p=2,o=[],n,m,l,k,j,i
 var $async$Yd=A.E(function(b,c){if(b===1){o.push(c)
-s=p}while(true)switch(s){case 0:j=A.dD("http://127.0.0.1:8000/kutuphane/"+a,0,null)
+s=p}while(true)switch(s){case 0:j=A.dD("http://157.230.127.162:8000/kutuphane/"+a,0,null)
 p=4
 s=7
 return A.L(A.avs(j),$async$Yd)
@@ -26317,7 +26317,7 @@ case 2:return A.G(o.at(-1),r)}})
 return A.I($async$Yd,r)},
 Ye(a){var s=0,r=A.J(t.y),q,p=2,o=[],n,m,l,k,j,i
 var $async$Ye=A.E(function(b,c){if(b===1){o.push(c)
-s=p}while(true)switch(s){case 0:j=A.dD("http://127.0.0.1:8000/kutuphane/sil/"+a,0,null)
+s=p}while(true)switch(s){case 0:j=A.dD("http://157.230.127.162:8000/kutuphane/sil/"+a,0,null)
 p=4
 s=7
 return A.L(A.avN(j),$async$Ye)
@@ -26348,7 +26348,7 @@ Yh(a,b,c){return A.aGx(a,b,c)},
 aGx(a,b,c){var s=0,r=A.J(t.y),q,p=2,o=[],n,m,l,k,j,i
 var $async$Yh=A.E(function(d,e){if(d===1){o.push(e)
 s=p}while(true)switch(s){case 0:p=4
-m=A.dD("http://127.0.0.1:8000/kutuphane/raf-kapasitesi",0,null)
+m=A.dD("http://157.230.127.162:8000/kutuphane/raf-kapasitesi",0,null)
 l=t.N
 k=A.ad(["Content-Type","application/json"],l,l)
 s=7
@@ -26379,7 +26379,7 @@ aGw(a){var s=0,r=A.J(t.P),q,p=2,o=[],n,m,l,k,j
 var $async$Yg=A.E(function(b,c){if(b===1){o.push(c)
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return A.L(A.avs(A.dD("http://127.0.0.1:8000/kutuphane/raf-kapasitesi/"+a,0,null)),$async$Yg)
+return A.L(A.avs(A.dD("http://157.230.127.162:8000/kutuphane/raf-kapasitesi/"+a,0,null)),$async$Yg)
 case 7:n=c
 if(n.b===200){m=B.ax.k7(B.M.dq(n.w),null)
 l=J.d(J.cf(m,"status"),"success")?J.cf(m,"data"):A.o(t.N,t.z)
